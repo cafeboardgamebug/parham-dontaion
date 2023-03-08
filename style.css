@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+div {
+    width: 60vw;
+    color: aliceblue;
+    padding: 2vh 18vw 0 18vw;
+    font-size: 3rem;
+}
